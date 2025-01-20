@@ -1,4 +1,4 @@
-# Menori Autolux
+# Menori Autolux :racing_car:
 ## Site desenvolvido com:
 - HTML
 - CSS
